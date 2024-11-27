@@ -1,0 +1,16 @@
+sales-calculator-web-app/
+├── public/                    # Static files accessible to users (HTML, CSS, JS)
+│   ├── index.html             # Main HTML file
+│   ├── styles.css             # Stylesheet for the application
+│   └── app.js                 # Frontend JavaScript logic
+├── src/                       # Application source code
+│   ├── components/            # Reusable UI components
+│   ├── utils/                 # Helper functions
+│   ├── App.js                 # Main application logic
+│   └── index.js               # Entry point of the application
+├── tests/                     # Test cases
+│   └── app.test.js            # Test file for application logic
+├── .gitignore                 # Git ignore file
+├── package.json               # Node.js dependencies and scripts
+├── README.md                  # Documentation for the repository
+└── LICENSE                    # License for the project
